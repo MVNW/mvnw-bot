@@ -1,0 +1,2 @@
+# mvnw-bot
+MVNW-bot
