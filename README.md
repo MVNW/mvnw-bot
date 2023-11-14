@@ -1,2 +1,2 @@
 # mvnw-bot
-MVNW-bot, is not back
+MVNW-bot, test
